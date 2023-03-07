@@ -9,9 +9,7 @@ Please, go through these steps before you submit a PR.
 
     b. You have a descriptive commit message with a short title (first line).
 
-    c. You have only one commit (if not, squash them into one commit).
-
-    d. `npm test` doesn't throw any error. If it does, fix them first and amend your commit (`git commit --amend`).
+    c. `npm test` doesn't throw any error. If it does, fix them first and amend your commit (`git commit --amend`).
 
 3. **After** these steps, you're ready to open a pull request.
 
